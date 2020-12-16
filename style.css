@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+table, th, td {
+    border: 1px solid white;
+    border-spacing: 1px;
+    text-align: center;
+    padding: 7px;
+}
